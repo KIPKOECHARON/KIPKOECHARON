@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KIPKOECH ARON 
 - 👀 I’m interested in reading novel,storry telling,warching,and leastning to music
-- 🌱 I’m currently learning bachelor of education science
-- 💞️ I’m looking to collaborate on data analysis and programming 
+- 🌱 I’m currently learning data science
+- 💞️ I’m looking to collaborate on data analysis and web designing 
 - 📫 How to reach me via email kipkoecharon6@gmail.com
 
 <!---
